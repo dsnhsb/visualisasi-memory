@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/visualisasi-cra/static/css/main.0826c34b.css",
+    "main.js": "/visualisasi-cra/static/js/main.e48afe5b.js",
+    "static/js/453.17c1f347.chunk.js": "/visualisasi-cra/static/js/453.17c1f347.chunk.js",
+    "index.html": "/visualisasi-cra/index.html",
+    "main.0826c34b.css.map": "/visualisasi-cra/static/css/main.0826c34b.css.map",
+    "main.e48afe5b.js.map": "/visualisasi-cra/static/js/main.e48afe5b.js.map",
+    "453.17c1f347.chunk.js.map": "/visualisasi-cra/static/js/453.17c1f347.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0826c34b.css",
+    "static/js/main.e48afe5b.js"
+  ]
+}
