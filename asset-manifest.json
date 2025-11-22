@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/visualisasi-memory/static/css/main.0826c34b.css",
-    "main.js": "/visualisasi-memory/static/js/main.7055a069.js",
+    "main.js": "/visualisasi-memory/static/js/main.3189e54d.js",
     "static/js/453.17c1f347.chunk.js": "/visualisasi-memory/static/js/453.17c1f347.chunk.js",
     "index.html": "/visualisasi-memory/index.html",
     "main.0826c34b.css.map": "/visualisasi-memory/static/css/main.0826c34b.css.map",
-    "main.7055a069.js.map": "/visualisasi-memory/static/js/main.7055a069.js.map",
+    "main.3189e54d.js.map": "/visualisasi-memory/static/js/main.3189e54d.js.map",
     "453.17c1f347.chunk.js.map": "/visualisasi-memory/static/js/453.17c1f347.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0826c34b.css",
-    "static/js/main.7055a069.js"
+    "static/js/main.3189e54d.js"
   ]
 }
